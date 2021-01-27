@@ -36,15 +36,15 @@ img {
 }
 
 #cheque #date {
-   top: 16mm;
-   left: 135mm;
+   top: 15mm;
+   left: 142mm;
    font-size: 1.3rem;
    letter-spacing: 4mm;
 }
 
 #cheque #amount_number {
-   top: 40mm;
-   left: 5.5in;
+   top: 41mm;
+   left: 5.7in;
    font-size: 2rem;
 }
 
@@ -56,7 +56,7 @@ img {
 
 #cheque #amount_speech {
    /* top: 40mm; */
-   top: 38mm;
+   top: 39mm;
    font-size: 1.3rem;
    /* left: 1.3in; */
    left: 0.3in;
